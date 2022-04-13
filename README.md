@@ -1,11 +1,8 @@
-# P2P
-Hackoverflow project
+# Hackoverflow project
 <br>
-
 # The Triquetra
 ## Introduction
 #### A ...<br> <br>
-
 
 ## Technology Stack
 <ul>
