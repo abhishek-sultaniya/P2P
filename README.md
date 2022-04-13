@@ -18,7 +18,7 @@ Hackoverflow project
 </ul>
 
 ## Website Demo
-### [Triquetra-Palette of Hope](https://triquetra-hackoverflow.herokuapp.com/)
+### [Triquetra-Hope of Life](https://triquetra-hackoverflow.herokuapp.com/)
 <br>
 
 ## Contributors
