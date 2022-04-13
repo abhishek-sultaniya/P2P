@@ -18,11 +18,11 @@ Hackoverflow project
 </ul>
 
 ## Website Demo
-### [Triquetra-Palette of Hope]()
+### [Triquetra-Palette of Hope](https://triquetra-hackoverflow.herokuapp.com/)
 <br>
 
 ## Contributors
 ### Team Name: The Triquetra
   1. Abhishek
-  2. 
-  3.
+  2. Amit Mishra
+  3.Shivansh Shrivastav
