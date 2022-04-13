@@ -74,6 +74,12 @@ route.get('/sux', (req,res)=>
 res.render('sux');
 })
 
+route.get('/abouts', (req,res)=>
+{
+// res.send("Crud Application by abhishek");
+res.render('abouts');
+})
+
 
 
 route.post("/api/payment/order",(req,res)=>{
